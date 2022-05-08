@@ -1,0 +1,21 @@
+[batch.size=1]
+2022-05-09 01:59
+21706 records sent, 4341.2 records/sec (0.41 MB/sec), 2308.1 ms avg latency, 3911.0 ms max latency.
+28738 records sent, 5747.6 records/sec (0.55 MB/sec), 5672.0 ms avg latency, 7483.0 ms max latency.
+29472 records sent, 5894.4 records/sec (0.56 MB/sec), 9271.0 ms avg latency, 11012.0 ms max latency.
+100000 records sent, 5417.118093 records/sec (0.52 MB/sec), 7316.91 ms avg latency, 13451.00 ms max latency, 7431 ms 50th, 12819 ms 95th, 13323 ms 99th, 13442 ms 99.9th.
+
+[batch.size=10]
+2022-05-09 02:02
+20061 records sent, 4012.2 records/sec (0.38 MB/sec), 2202.5 ms avg latency, 3833.0 ms max latency.
+28128 records sent, 5625.6 records/sec (0.54 MB/sec), 5735.3 ms avg latency, 7596.0 ms max latency.
+29894 records sent, 5978.8 records/sec (0.57 MB/sec), 9399.4 ms avg latency, 11104.0 ms max latency.
+100000 records sent, 5322.263026 records/sec (0.51 MB/sec), 7594.16 ms avg latency, 13781.00 ms max latency, 7832 ms 50th, 13156 ms 95th, 13671 ms 99th, 13773 ms 99.9th.
+
+[batch.size=100]
+2022-05-09 02:03
+18002 records sent, 3600.4 records/sec (0.34 MB/sec), 2465.9 ms avg latency, 3938.0 ms max latency.
+25075 records sent, 5015.0 records/sec (0.48 MB/sec), 6001.0 ms avg latency, 7852.0 ms max latency.
+26926 records sent, 5385.2 records/sec (0.51 MB/sec), 9712.3 ms avg latency, 11509.0 ms max latency.
+27925 records sent, 5585.0 records/sec (0.53 MB/sec), 13315.2 ms avg latency, 15114.0 ms max latency.
+100000 records sent, 4913.039206 records/sec (0.47 MB/sec), 8597.64 ms avg latency, 15346.00 ms max latency, 8854 ms 50th, 14753 ms 95th, 15229 ms 99th, 15336 ms 99.9th.
